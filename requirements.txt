@@ -9,3 +9,10 @@ chromadb==0.4.22
 
 # Utilities
 python-dotenv==1.0.0
+
+streamlit==1.31.0
+
+# Add, commit, and push
+git add requirements.txt
+git commit -m "Add requirements.txt for deployment"
+git push
